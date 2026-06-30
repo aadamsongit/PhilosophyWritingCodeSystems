@@ -31,3 +31,16 @@ A pull request is different. Rather than moving code, it is a collaborative work
 
 In many projects, the `main` branch serves as the primary source of truth. Changes are typically developed on feature branches, reviewed through pull requests, and merged into `main` once they have been approved.
 
+## Know How to Yak Shave
+
+Yak shaving is the process of solving a series of smaller, often unexpected problems before you can solve the problem you originally intended to work on. It is a normal part of software engineering.
+
+Whether you're working manually or using AI-assisted engineering tools, you'll frequently encounter these detours.
+
+For example, your PostgreSQL container won't start. Before debugging PostgreSQL itself, verify that Docker Desktop is running. Check that another PostgreSQL process isn't already using the port. Confirm you're in the correct development environment. On Windows, PowerShell is often the simplest place to investigate running processes. A colleague on macOS will likely have a different debugging workflow.
+
+Good engineers learn to recognize when they're yak shaving, work methodically through the dependencies, and then return to the original problem rather than becoming lost in the detour.
+
+This is also why experienced developers care so much about project organization. Consistent folder structures, naming conventions, and predictable workflows reduce unnecessary yak shaving by making it easier to find code, understand a project, and identify where problems are actually coming from.
+
+
