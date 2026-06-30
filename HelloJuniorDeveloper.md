@@ -10,7 +10,7 @@ That shift doesn't necessarily change what "junior" means within an organization
 
 By a lot of modern market standards, I'm an industry junior, but I get interviews for senior roles.
 
-## ## We're in a Weird Moment
+##  We're in a Weird Moment
 
 A group of developers who would conventionally have been called "juniors" have had to step up a level.
 
