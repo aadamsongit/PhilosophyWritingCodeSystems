@@ -40,6 +40,12 @@ Problem decomposition is one of the most valuable engineering skills you can dev
 
 Clear thinking almost always produces clearer software. The better you can decompose a problem into manageable parts, the easier it becomes to reason about tradeoffs, communicate with other engineers, and build systems that remain understandable as they grow.
 
+## Google Docs Is a Powerful Prototyping Environment
+
+Don't underestimate simple tools. Before writing code, use a Google Doc to gather requirements, sketch architecture, compare approaches, write pseudocode, and record tradeoffs. A clear document often exposes problems long before they become code.
+
+Diagrams, bullet points, rough data models, and simple flowcharts are often enough to turn a vague idea into an implementable design. Good engineering frequently begins with organized thinking rather than implementation.
+
 
 
 
