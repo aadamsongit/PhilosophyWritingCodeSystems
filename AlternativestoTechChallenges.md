@@ -42,7 +42,4 @@ A healthier market also recognizes that engineering talent is demonstrated in mo
 
 Finally, a healthier market should reward durable engineering skills over transient familiarity with particular tools. Frameworks change. AI capabilities improve. Hiring trends shift. The engineers who continue to succeed are those who can decompose problems, build accurate mental models, communicate clearly, exercise sound judgment, and continue learning throughout their careers.
 
-T
-
-
 
