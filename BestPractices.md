@@ -18,4 +18,14 @@ I think "vibe-coding" and "AI-assisted engineering" have developed different con
 
 The tools themselves have evolved rapidly. Early GitHub Copilot functioned largely as an autocomplete assistant. Cursor introduced more agentic workflows, while tools such as Claude Code and Codex increasingly operate at higher levels of abstraction by taking on larger engineering tasks. As these systems become more capable, the value of understanding the underlying software, its architecture, and its tradeoffs becomes more important, not less.
 
+## Personal Thoughts on Vibe-Coding and AI-Assisted Engineering
+
+AI-assisted engineering is a valuable skill, but it should be built on a foundation of technical understanding. My recommendation is to develop enough familiarity with programming, debugging, and software architecture that you can evaluate AI-generated code rather than simply accepting it.
+
+I think "vibe-coding" and "AI-assisted engineering" have developed different connotations. "Vibe-coding" generally describes producing software by relying primarily on AI output with limited understanding of the underlying implementation. By contrast, experienced engineers using AI effectively are usually applying years of accumulated knowledge to guide, critique, refine, and verify the results.
+
+The tools themselves have evolved rapidly. Early GitHub Copilot functioned largely as an autocomplete assistant. Cursor introduced more agentic workflows, while tools such as Claude Code and Codex increasingly operate at higher levels of abstraction by taking on larger engineering tasks. As these systems become more capable, the value of understanding the underlying software, its architecture, and its tradeoffs becomes more important, not less.
+
+Have opinions on tradeoffs. Why Node or Bun? Why npm or pnpm for a project? Why React or Next? Nest or Express or just Next? How will you handle data and scaling? 
+
 
