@@ -22,3 +22,12 @@ At this point, nothing has been pushed to GitHub. You're simply creating a local
 Once you've learned to create a local history of your work, the next step is to learn to set up a remote repo and connect the two.
 
 Git/version control does not only work with Github. There are alternatives, but it's a well-known version control system and workflow.
+
+## Git Push, Git Pull, and Pull Requests
+
+`git push` sends your local commits to a remote Git repository, such as GitHub. `git pull` retrieves changes from the remote repository and updates your local branch.
+
+A pull request is different. Rather than moving code, it is a collaborative workflow for proposing changes, reviewing code, discussing implementation details, and ultimately merging one branch into another.
+
+In many projects, the `main` branch serves as the primary source of truth. Changes are typically developed on feature branches, reviewed through pull requests, and merged into `main` once they have been approved.
+
