@@ -10,4 +10,12 @@ Understand IDE and environment tradeoffs. Every development environment has stre
 
 Handwriting code into Notepad or another plain text editor is a useful way to drill language fundamentals because nothing is hidden from you. As projects grow, editors like VS Code provide a rich extension ecosystem and powerful tooling that make working in larger codebases significantly more efficient.
 
+## Personal Thoughts on Vibe-Coding and AI-Assisted Engineering
+
+AI-assisted engineering is a valuable skill, but it should be built on a foundation of technical understanding. My recommendation is to develop enough familiarity with programming, debugging, and software architecture that you can evaluate AI-generated code rather than simply accepting it.
+
+I think "vibe-coding" and "AI-assisted engineering" have developed different connotations. "Vibe-coding" generally describes producing software by relying primarily on AI output with limited understanding of the underlying implementation. By contrast, experienced engineers using AI effectively are usually applying years of accumulated knowledge to guide, critique, refine, and verify the results.
+
+The tools themselves have evolved rapidly. Early GitHub Copilot functioned largely as an autocomplete assistant. Cursor introduced more agentic workflows, while tools such as Claude Code and Codex increasingly operate at higher levels of abstraction by taking on larger engineering tasks. As these systems become more capable, the value of understanding the underlying software, its architecture, and its tradeoffs becomes more important, not less.
+
 
