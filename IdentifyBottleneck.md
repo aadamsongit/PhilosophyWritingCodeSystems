@@ -2,13 +2,11 @@
 
 Treat your job search like a system. Test one stage at a time rather than changing everything at once.
 
-No recruiter outreach? Your LinkedIn, resume, or targeting may not be attracting attention.
-
-Recruiters reach out, then disappear after seeing your resume? Your resume may not reinforce the story your LinkedIn is telling.
-Resume screens succeed, but recruiter calls don't? Your experience may not be translating clearly in conversation, or there may be a role-fit mismatch.
-
-Recruiter calls go well, but technical interviews don't? Focus on technical preparation rather than rewriting your resume.
-Technical interviews go well, but no offers? Examine system design, behavioral interviews, references, compensation expectations, or overall fit.
+* **No recruiter outreach?** Your LinkedIn, resume, or targeting may not be attracting attention.
+* **Recruiters reach out, then disappear after seeing your resume?** Your resume may not reinforce the story your LinkedIn is telling.
+* **Resume screens succeed, but recruiter calls don't?** Your experience may not be translating clearly in conversation, or there may be a role-fit mismatch.
+* **Recruiter calls go well, but technical interviews don't?** Focus on technical preparation rather than rewriting your resume.
+* **Technical interviews go well, but no offers?** Examine system design, behavioral interviews, references, compensation expectations, or overall fit.
 
 The key is to avoid optimizing a stage that isn't the constraint.
 
@@ -16,12 +14,24 @@ Changing your GitHub won't help if nobody ever looks at it. Practicing coding in
 
 Instead, gather observations.
 
-Which companies respond?
-Which recruiters ghost?
-Which interview stages do you consistently reach?
-Which questions come up repeatedly?
-What explanations do you find yourself giving over and over?
+* Which companies respond?
+* Which recruiters ghost?
+* Which interview stages do you consistently reach?
+* Which questions come up repeatedly?
+* What explanations do you find yourself giving over and over?
 
 Those observations are data. They tell you where information is being lost and where your next improvement is likely to have the highest return.
 
 It's the same debugging loop you'd use for software: identify the failing stage, form a hypothesis, change one variable, and see whether the bottleneck moves.
+
+## Match the Approach to the Bottleneck
+
+Career advice often assumes a particular bottleneck. Before following it, ask whether that bottleneck is actually yours.
+
+For example, LinkedIn discussions often emphasize networking, usually meaning building or leveraging in-person relationships. That's valuable for many people, but it isn't the only form of networking, nor is it the only way opportunities arise.
+
+If you've built your career through remote work, online communities, recruiters, staffing agencies, or contract work, your network may look different. Closing the loop might mean strengthening those channels instead of trying to force a strategy that doesn't match your experience.
+
+For me, that has meant reconnecting with former colleagues, staying in touch with recruiters, reaching out to previous staffing agencies, submitting updated resumes to new agencies, and periodically refreshing my professional materials. Those activities reinforce the channels that have historically produced opportunities.
+
+The important question isn't whether you're following conventional advice. It's whether your actions are addressing the actual bottleneck in your own job search.
