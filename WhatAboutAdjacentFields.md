@@ -11,5 +11,3 @@ In fact, experience often transfers surprisingly well between them. A developer 
 Careers in technology are often less linear than they appear. The skills you develop in one role can create opportunities in another, and moving into an adjacent field doesn't prevent you from returning later.
 
 Rather than asking whether a role is "real engineering," it may be more useful to ask whether it aligns with your interests, strengths, and the kind of work you want to do. The technology industry is much larger than any single job title.
-
-
