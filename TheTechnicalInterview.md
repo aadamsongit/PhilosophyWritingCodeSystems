@@ -10,7 +10,7 @@ Whether that is an ideal hiring system is a separate discussion. The practical r
 
 ## A Technical Interview Axiom
 
-If you find yourself asking, *"Which kind of technical interview won't expose my weaknesses?"* you're probably optimizing for the wrong thing.
+If you find yourself asking, _"Which kind of technical interview won't expose my weaknesses?"_ you're probably optimizing for the wrong thing.
 
 Data structures and algorithms, system design, feature implementation, AI-assisted coding, debugging, take-home projects, and verbal technical discussions all look different on the surface. Underneath, they exercise many of the same cognitive skills.
 
@@ -21,5 +21,3 @@ The medium changes. The underlying skill largely does not.
 That doesn't mean every interview format is equally effective or equally predictive of job performance. They each have strengths and weaknesses. But searching for the interview format that is "easiest" can distract from developing the skill they have in common.
 
 If your ability to decompose problems improves, you'll likely become stronger across interview formats rather than only improving at one of them.
-
-
