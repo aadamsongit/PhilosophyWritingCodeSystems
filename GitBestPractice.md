@@ -43,4 +43,10 @@ Good engineers learn to recognize when they're yak shaving, work methodically th
 
 This is also why experienced developers care so much about project organization. Consistent folder structures, naming conventions, and predictable workflows reduce unnecessary yak shaving by making it easier to find code, understand a project, and identify where problems are actually coming from.
 
+## Other Prototyping Layers
+
+Figma is a collaborative interface design and prototyping tool that has become a standard part of many frontend workflows. It is also an impressively sophisticated web application in its own right, blending high-performance systems engineering with modern frontend technologies.
+
+Visual prototyping is often a valuable step before implementation. Sketching layouts, user flows, and interactions in Figma can expose usability issues, clarify requirements, and improve communication long before code is written. Like any tool, it has tradeoffs, but there is significant value in exploring ideas visually before committing to an implementation.
+
 
