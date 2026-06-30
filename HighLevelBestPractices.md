@@ -6,5 +6,14 @@ Simple prototypes, wireframes, clickable mockups, and forms can reveal whether u
 
 Prototype at the level of uncertainty. If you're unsure about the user experience, prototype the experience. If you're unsure about the architecture, prototype the architecture. If you're unsure about the implementation, build a small vertical slice.
 
+## Develop Adjacent Collaborative Experience
+
+Software engineering rarely exists in isolation. Developers benefit from understanding adjacent disciplines such as user experience, product management, design, quality assurance, technical writing, and customer feedback.
+
+Participating in UX studies, usability testing, or other user research can be a valuable way to observe how people interact with software and where friction occurs. Even if you are not a designer or researcher, those experiences can improve your intuition about usability, communication, and product decisions.
+
+The broader your understanding of the people and disciplines surrounding software development, the easier it becomes to collaborate effectively and build products that solve real problems.
+
+
 
 
