@@ -21,3 +21,7 @@ Make a change, stage it, commit it, and push it. Keep your commits reasonably fo
 Write commit messages that describe what changed. They become part of your project's history and often serve as lightweight documentation when you need to understand why something was added, removed, or modified.
 
 A clean, consistent Git history is usually more valuable than an elaborate branching strategy. Optimize for clarity, collaboration, and steady progress.
+
+## Github isn't the place for Git Repos
+
+There's also Bitbucket and Gitlab. But Github is very visible and is the home of much robust open-source.
