@@ -22,6 +22,15 @@ Write commit messages that describe what changed. They become part of your proje
 
 A clean, consistent Git history is usually more valuable than an elaborate branching strategy. Optimize for clarity, collaboration, and steady progress.
 
-## Github isn't the place for Git Repos
+## GitHub Isn't the Only Place for Git Repositories
 
-There's also Bitbucket and Gitlab. But Github is very visible and is the home of much robust open-source.
+GitHub is the most recognizable Git hosting platform, but it isn't the only one.
+
+Other popular options include GitLab and Bitbucket, and many organizations host their own private Git servers. The underlying version control system is still Git; the hosting platform is a separate choice.
+
+GitHub has historically been well regarded for its developer experience and has become the home of a vast amount of open-source software. Many widely used libraries, frameworks, developer tools, and SaaS projects are developed in the open on GitHub, making it a central hub for collaboration and learning.
+
+Because of that visibility, many developers also use GitHub as a public portfolio. Recruiters, hiring managers, and other engineers often browse repositories to understand how someone writes code, documents projects, and collaborates with others.
+
+The important skill is learning Git. Once you understand version control, moving between GitHub, GitLab, Bitbucket, or another Git host is generally straightforward.
+
