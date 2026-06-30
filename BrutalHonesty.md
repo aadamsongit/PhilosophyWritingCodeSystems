@@ -1,4 +1,4 @@
-## ## Now Let's Talk About Some Frank Truths I Hope Will Help You
+## Now Let's Talk About Some Frank Truths I Hope Will Help You
 
 From 2023 onward, the software engineering job market has generally been more challenging than it was during much of the preceding decade. Different developers have experienced this shift in different ways, but it has changed the kinds of skills many employers value.
 
