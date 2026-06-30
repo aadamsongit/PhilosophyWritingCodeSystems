@@ -5,3 +5,4 @@ React is a perfectly reasonable entry point into modern web development. Spend a
 On Windows, WSL generally provides a smoother Unix-like development environment than PowerShell, especially for modern web development and containerized workflows. It also introduces another layer that can occasionally produce Windows-specific friction, so understanding where your code is executing is part of working effectively with it.
 
 Understand Git and GitHub early. Version control is not just a place to store code. It's a core part of modern software development. Learn branching, merging, rebasing, pull requests, resolving conflicts, and reading commit history. The better you understand Git, the easier it becomes to collaborate, experiment safely, and understand the evolution of a codebase.
+
