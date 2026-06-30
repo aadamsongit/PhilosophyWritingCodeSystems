@@ -28,13 +28,19 @@ The tools themselves have evolved rapidly. Early GitHub Copilot functioned large
 
 Have opinions on tradeoffs. Why Node or Bun? Why npm or pnpm for a project? Why React or Next? Nest or Express or just Next? How will you handle data and scaling?
 
-# It's All About Tradeoffs
+## It's All About Tradeoffs
 
 This judgment call does not change, even as technologies do. Every engineering decision involves balancing competing priorities: development speed, maintainability, scalability, performance, cost, complexity, and the needs of the people building and using the software.
 
-Large enterprises and startups often require different approaches. Freelance projects introduce different client expectations, communication styles, and requirements gathering. The right solution depends on the constraints of the project rather than a universally "best" technology.
+Large enterprises and startups often require different approaches. Freelance projects introduce different client expectations, communication styles, and requirements gathering. The right solution depends on the constraints of the project rather than a universally "best" technology. Learning frameworks, databases, languages, and AI tools is valuable, but learning to reason about their tradeoffs is a skill that carries across every project. Technologies change. Engineering judgment does not.
 
-Learning frameworks, databases, languages, and AI tools is valuable, but learning to reason about their tradeoffs is a skill that carries across every project. Technologies change. Engineering judgment does not.
+## Problem Decomposition
+
+Problem decomposition is one of the most valuable engineering skills you can develop. Before writing code, understand the problem. Gather requirements. Write documentation. Sketch the architecture in Google Docs. Draw diagrams. Model data on paper or in Notepad. Break large problems into smaller, understandable pieces before worrying about implementation.
+
+Clear thinking almost always produces clearer software. The better you can decompose a problem into manageable parts, the easier it becomes to reason about tradeoffs, communicate with other engineers, and build systems that remain understandable as they grow.
+
+
 
 
 
