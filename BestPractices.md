@@ -28,7 +28,7 @@ The tools themselves have evolved rapidly. Early GitHub Copilot functioned large
 
 Have opinions on tradeoffs. Why Node or Bun? Why npm or pnpm for a project? Why React or Next? Nest or Express or just Next? How will you handle data and scaling?
 
-## Personal Thoughts on Vibe-Coding and AI-Assisted Engineering
+## It's All About Tradeoffs. 
 
 AI-assisted engineering is a valuable skill, but it should be built on a foundation of technical understanding. My recommendation is to develop enough familiarity with programming, debugging, and software architecture that you can evaluate AI-generated code rather than simply accepting it.
 
