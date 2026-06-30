@@ -20,41 +20,69 @@ I tried many approaches with DSA. I tried Leetcode, direct whiteboarding, variou
 
 What finally worked for me was building from problem decomposition in Google Docs as I do with system design. 
 
+I think the real challenge for DSA is that it's hard to be motivated to practice it until you hit absolute blockers in problem decomposition under pressure. I kept saying I was going to practiced it, but what finally forced my hand was more coding tribulations for with interviews.
 
+## Conversational Interviews
 
+## Conversational Interviews
 
+At first glance, a conversational technical interview might seem like the easiest format. After all, you're "just talking."
 
+In practice, they can be some of the most demanding interviews you'll encounter.
+
+Rather than writing code, you're asked to think out loud. You explain architectural decisions, justify technical tradeoffs, discuss projects you've built, and answer follow-up questions in real time. There is no compiler to tell you when you've misspoken or overlooked an assumption.
+
+I experienced this firsthand during a technical interview for a consulting role. As the conversation progressed, I realized that my technical fluency under pressure needed work. I understood many of the concepts, but understanding something and explaining them clearly, accurately, and confidently are different skills.
+
+That realization changed how I prepared for interviews.
+
+I stopped thinking of technical knowledge as something I simply possessed. Instead, I began practicing the ability to retrieve that knowledge, organize it, and communicate it under pressure.
+
+Like many interview formats, conversational interviews ultimately reward problem decomposition. The difference is that instead of demonstrating your thinking through code, you're demonstrating it through language. The interviewer is often evaluating not only what you know, but how you reason, how you communicate, and how you respond when a discussion becomes more complex.
+
+In my experience, interviews for consulting, architecture, and technical advisory roles often blend technical fundamentals with business context. I encountered questions about object-oriented programming, SQL, system design, and software architecture alongside discussions about AI, automation, and how those technologies could create value for large organizations.
+
+That combination reflects the nature of the work. You're not only expected to understand technology—you also need to explain why a particular technical decision makes sense in the context of a business problem.
+
+## Time awareness
+
+The challenge wasn't the concepts themselves. It was maintaining technical fluency under pressure in a time-constrained conversation.
+
+Unlike a coding interview, there was no opportunity to quietly reason through the problem by writing code. I had to retrieve knowledge, organize it, and communicate it coherently while responding to follow-up questions in real time.
+
+That made me realize that technical fluency is a skill worth practicing independently. It's one thing to understand object-oriented programming, SQL, or software architecture. It's another to explain those concepts clearly and confidently when someone is evaluating your reasoning.
+
+Like coding, verbal technical communication improves with deliberate practice.
 
 ### Feature Implementation
 
-Rather than solving a standalone algorithm, you're asked to build a small feature. This may involve creating an API, implementing a UI component, fixing a bug, or extending an existing codebase.
+Rather than solving a standalone algorithm, you're asked to build a small feature. This may involve creating an API, implementing a UI component, fixing a bug, or extending an existing codebase. These interviews more closely resemble day-to-day software development.
 
-These interviews more closely resemble day-to-day software development.
+Developers often get excited when they hear they can use an AI coding assistant during the interview. That flexibility can certainly be helpful, but it also introduces a different set of challenges.
 
-### Debugging
+Using an AI tool effectively is a skill in its own right. You still need to understand the problem, evaluate the generated code, recognize when the model has misunderstood the requirements, and integrate its suggestions into an existing codebase. In many cases, reviewing and correcting AI-generated code becomes part of the exercise.
 
-Some interviews begin with broken code and ask you to identify and fix the problem. The emphasis is less on writing code from scratch and more on understanding an unfamiliar system.
+I found that these interviews rewarded engineering judgment more than prompt writing. The bottleneck wasn't getting code generated. It was deciding whether the generated code was correct, maintainable, and appropriate for the task at hand.
 
-### Take-Home Projects
+I had an interesting experience with this. I recently did a live coding interview with Cursor, an AI tool, and a stack I'm familiar with, Next.js with Prisma and TS. I did touch tRPC, which I hadn't before, but this didn't feel too different. I set up the codebase on localhost. 
 
-Instead of a live interview, you're given a project to complete over several hours or days. These exercises often allow you to demonstrate architecture, testing, documentation, and engineering tradeoffs.
+It was my stack and a tool I'm familiar with, so pretty easy, right? 
 
-### Code Review
+Actually... there were unique challenges with this approach. 
 
-Occasionally, you'll be asked to review an existing pull request or discuss a piece of code. These interviews evaluate engineering judgment as much as implementation ability.
+I thought ahead on some aspects of the implementation. I proposed beginning with the codebase's existing patterns, but I don't think I spent enough time building a mental model of what I was about to implement.
 
-### System Design
+I didn't yet have a clear understanding of the schema or the data layer. I had worked with Prisma before, but not with the level of ownership required to confidently explain how the Prisma schema, the generated TypeScript types, and the tRPC procedures fit together.
 
-Candidates discuss how they would design an application or service. Depending on the level of the role, this may range from a small feature to a large distributed system.
+When Cursor helped, its generated logic became a distraction rather than an accelerator. I recognized much of what it produced, but recognizing code and reasoning about it are different skills. I didn't yet have the backend vocabulary to quickly evaluate the tradeoffs, explain why one approach fit the existing architecture better than another, or confidently reject an implementation that looked plausible but wasn't quite right.
 
-These interviews emphasize decomposition, architecture, scalability, and tradeoff analysis.
+That experience taught me that AI-assisted development raises the bar for engineering judgment. The faster code appears on the screen, the more important it becomes to understand the system well enough to evaluate it.
 
-### Technical Discussion
+Do not assume AI-assisted feature implementation is a magic easy route. It can surface technical limitations. 
 
-Some interviews are primarily conversational. You may be asked about projects you've built, technologies you've used, decisions you've made, or tradeoffs you've encountered.
+## One lesson kept recurring across different interview formats: recognition is not the same as reasoning.
 
-These conversations often reveal how you think as much as what you know.
+I often recognized technologies, algorithms, or generated code because I had seen them before. But interviews rarely reward recognition alone. They reward the ability to explain why something works, identify tradeoffs, connect it to the surrounding system, and adapt when the problem changes.
 
-Each format has strengths and limitations, but they share a common thread. Every technical interview asks you to understand a problem, break it into manageable parts, and communicate your reasoning along the way.
-
+The gap between recognizing a solution and reasoning through it is where much of technical growth happens.
 
