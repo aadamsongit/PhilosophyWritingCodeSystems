@@ -49,4 +49,7 @@ Figma is a collaborative interface design and prototyping tool that has become a
 
 Visual prototyping is often a valuable step before implementation. Sketching layouts, user flows, and interactions in Figma can expose usability issues, clarify requirements, and improve communication long before code is written. Like any tool, it has tradeoffs, but there is significant value in exploring ideas visually before committing to an implementation.
 
+Miro provides another layer of prototyping. It excels at flowcharts, system diagrams, and process mapping, making it particularly useful for automation workflows, integrations, and larger architectural discussions. Sometimes the best way to understand a complex system is to draw it before attempting to build it.
+
+
 
