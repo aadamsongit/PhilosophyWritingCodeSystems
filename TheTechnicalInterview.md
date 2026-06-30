@@ -8,17 +8,18 @@ Whatever your view, the technical interview has become a skill in its own right.
 
 Whether that is an ideal hiring system is a separate discussion. The practical reality is that technical interviews remain a common part of software engineering hiring, and understanding how they work is valuable regardless of your opinion of them.
 
-## My Biggest Revelation About Technical Interviews
+## A Technical Interview Axiom
 
-The biggest insight I've had about technical interviews is that they are fundamentally exercises in problem decomposition.
+If you find yourself asking, *"Which kind of technical interview won't expose my weaknesses?"* you're probably optimizing for the wrong thing.
 
-Whether you're solving a data structures and algorithms problem, implementing a small feature, debugging existing code, designing an API, or discussing a large-scale system, the core skill is remarkably similar. You're taking an ambiguous problem, breaking it into manageable pieces, making tradeoffs, and solving those pieces one at a time.
+Data structures and algorithms, system design, feature implementation, AI-assisted coding, debugging, take-home projects, and verbal technical discussions all look different on the surface. Underneath, they exercise many of the same cognitive skills.
 
-The scale changes, but the process doesn't.
+Each asks you to understand a problem, decompose it into smaller pieces, make tradeoffs, communicate your reasoning, and arrive at a solution.
 
-A coding challenge asks you to decompose a small algorithmic problem. A feature implementation asks you to decompose product requirements into components, data models, and business logic. System design asks you to decompose an application into services, databases, interfaces, and infrastructure. Even behavioral questions often ask you to decompose a past experience into context, decisions, tradeoffs, and outcomes.
+The medium changes. The underlying skill largely does not.
 
-Once I started viewing technical interviews through that lens, they felt less like a collection of unrelated exercises and more like variations on the same underlying skill.
+That doesn't mean every interview format is equally effective or equally predictive of job performance. They each have strengths and weaknesses. But searching for the interview format that is "easiest" can distract from developing the skill they have in common.
 
-That doesn't eliminate the need to study algorithms, system design, or language fundamentals. Those are still important. But understanding that the common thread is problem decomposition changed how I prepare. Rather than memorizing isolated solutions, I focus on learning how to analyze a problem, identify its parts, and reason through each decision step by step.
+If your ability to decompose problems improves, you'll likely become stronger across interview formats rather than only improving at one of them.
+
 
