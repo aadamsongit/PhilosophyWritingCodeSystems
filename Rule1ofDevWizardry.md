@@ -2,9 +2,7 @@
 
 As you grow as a developer, your responsibility changes. At some point, you become the wizard standing on the bridge.
 
-A pull request should not pass simply because it compiles, passes a handful of tests, or was generated quickly. It should pass because someone understands what it does and has confidence that it improves the codebase.
-
-Don't review code based on vibes. Interrogate it.
+A pull request should not pass simply because it compiles, passes a handful of tests, or was generated quickly. It should pass because someone understands what it does and has confidence that it improves the codebase. Don't review code based on vibes. Interrogate it.
 
 * Why did this implementation change?
 * What problem is it solving?
@@ -15,11 +13,7 @@ Don't review code based on vibes. Interrogate it.
 * Does this follow the existing architecture?
 * Will the next engineer understand it six months from now?
 
-Whether the code was written by a teammate, an AI assistant, or your past self, the standard is the same. Curiosity is one of the most valuable tools in code review.
-
-Every merged pull request becomes part of the codebase's history. If you approve code you don't understand, you're also approving the maintenance burden that comes with it.
-
-The wizard on the bridge isn't there to stop progress. They're there to make sure the right code crosses.
+Whether the code was written by a teammate, an AI assistant, or your past self, the standard is the same. Curiosity is one of the most valuable tools in code review. Every merged pull request becomes part of the codebase's history. If you approve code you don't understand, you're also approving the maintenance burden that comes with it. The wizard on the bridge isn't there to stop progress. They're there to make sure the right code crosses.
 
 ## Don't Be a Unicorn
 
