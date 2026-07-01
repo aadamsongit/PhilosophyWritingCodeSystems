@@ -8,15 +8,9 @@ Today's market often includes candidates with computer science degrees, bootcamp
 
 ## We're in a Weird Moment
 
-A group of developers who would conventionally have been called "juniors" have had to step up a level.
+A group of developers who would conventionally have been called "juniors" have had to step up a level. Vanilla React is probably not enough anymore, at least vocationally. It can still be valuable, and experienced React developers can absolutely build serious products with it, but the hiring market often expects more: TypeScript, testing, backend familiarity, deployment, authentication, databases, cloud basics, and the ability to work across a production codebase. Even that is not a guarantee. I know experienced React developers who have found the current market challenging.
 
-Vanilla React is probably not enough anymore, at least vocationally. It can still be valuable, and experienced React developers can absolutely build serious products with it, but the hiring market often expects more: TypeScript, testing, backend familiarity, deployment, authentication, databases, cloud basics, and the ability to work across a production codebase.
-
-Even that is not a guarantee. I know experienced React developers who have found the current market challenging.
-
-Prestige signals are also less reliable than they once seemed. FAANG experience does not always lead to more FAANG opportunities. Contract work, freelance projects, staffing agency roles, and fragmented work histories have become more common across the market.
-
-That makes the junior/entry-level conversation harder to discuss cleanly. Many candidates are neither classic beginners nor traditionally senior. They may have real production exposure, uneven gaps, strong project experience, and practical skills that do not map neatly onto conventional titles.
+Prestige signals are also less reliable than they once seemed. FAANG experience does not always lead to more FAANG opportunities. Contract work, freelance projects, staffing agency roles, and fragmented work histories have become more common across the market. That makes the junior/entry-level conversation harder to discuss cleanly. Many candidates are neither classic beginners nor traditionally senior. They may have real production exposure, uneven gaps, strong project experience, and practical skills that do not map neatly onto conventional titles.
 
 We're in a weird moment because the old categories still exist, but the market no longer sorts people into them as cleanly.
 
