@@ -18,9 +18,5 @@ Software engineering is not a single culture.
 
 In addition to the work itself changing over time, the environments in which developers work have changed as well. A startup, a Fortune 500 company, a government contractor, a consulting firm, an open-source project, and a small software agency may all employ software engineers, yet their day-to-day expectations can differ dramatically.
 
-Company size influences ownership, specialization, and pace. Industry influences regulation, security, and risk tolerance. Leadership shapes communication, autonomy, and decision-making. Team culture affects everything from code review standards to release processes.
-
-An engineer who thrives in one environment may find another frustrating—not because either organization is objectively better, but because they optimize for different goals.
-
-Understanding these differences is valuable when evaluating opportunities. A job description tells you what you'll build. The company's culture often determines how you'll build it.
+Company size influences ownership, specialization, and pace. Industry influences regulation, security, and risk tolerance. Leadership shapes communication, autonomy, and decision-making. Team culture affects everything from code review standards to release processes. An engineer who thrives in one environment may find another frustrating. Not because either organization is objectively better, but because they optimize for different goals. Understanding these differences is valuable when evaluating opportunities. A job description tells you what you'll build. The company's culture often determines how you'll build it.
 
