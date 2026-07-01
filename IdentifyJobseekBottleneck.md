@@ -1,4 +1,4 @@
-## Identify the Bottleneck
+## Identify the Bottleneck in Your Job-Seeking
 
 Treat your job search like a system. Test one stage at a time rather than changing everything at once.
 
