@@ -20,9 +20,7 @@ Instead, gather observations.
 * Which questions come up repeatedly?
 * What explanations do you find yourself giving over and over?
 
-Those observations are data. They tell you where information is being lost and where your next improvement is likely to have the highest return.
-
-It's the same debugging loop you'd use for software: identify the failing stage, form a hypothesis, change one variable, and see whether the bottleneck moves.
+Those observations are data. They tell you where information is being lost and where your next improvement is likely to have the highest return. It's the same debugging loop you'd use for software: identify the failing stage, form a hypothesis, change one variable, and see whether the bottleneck moves.
 
 ## Match the Approach to the Bottleneck
 
