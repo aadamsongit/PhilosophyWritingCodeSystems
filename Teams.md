@@ -2,15 +2,9 @@
 
 Engineering teams come in many sizes, and there is no universally correct number.
 
-When I worked at Takeda, I was part of an eight-person engineering team. It was large enough to distribute work across multiple people with different areas of expertise while still being small enough for regular communication.
+When I worked at Takeda, I was part of an eight-person engineering team. It was large enough to distribute work across multiple people with different areas of expertise while still being small enough for regular communication. In recent years, many companies have moved toward leaner teams. Smaller teams can make decisions more quickly, reduce communication overhead, and give individual engineers broader ownership over a product or feature. That shift also changes expectations. Engineers on smaller teams are often expected to wear multiple hats, contributing across frontend, backend, infrastructure, testing, deployment, and product discussions as needed.
 
-In recent years, many companies have moved toward leaner teams. Smaller teams can make decisions more quickly, reduce communication overhead, and give individual engineers broader ownership over a product or feature.
-
-That shift also changes expectations. Engineers on smaller teams are often expected to wear multiple hats, contributing across frontend, backend, infrastructure, testing, deployment, and product discussions as needed.
-
-Neither approach is inherently better. Larger teams can bring deeper specialization and redundancy. Smaller teams can move faster and simplify coordination. The right size depends on the product, the organization, and the problems the team is trying to solve.
-
-As an engineer, it's useful to understand the strengths and tradeoffs of both environments. Throughout your career, you'll likely work on teams of many different sizes.
+Neither approach is inherently better. Larger teams can bring deeper specialization and redundancy. Smaller teams can move faster and simplify coordination. The right size depends on the product, the organization, and the problems the team is trying to solve. As an engineer, it's useful to understand the strengths and tradeoffs of both environments. Throughout your career, you'll likely work on teams of many different sizes.
 
 # Companies, Sectors, and Work Culture
 
