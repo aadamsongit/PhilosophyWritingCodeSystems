@@ -24,8 +24,4 @@ Those observations are data. They tell you where information is being lost and w
 
 ## Match the Approach to the Bottleneck
 
-Career advice often assumes a particular bottleneck. Before following it, ask whether that bottleneck is actually yours. For example, LinkedIn discussions often emphasize networking, usually meaning building or leveraging in-person relationships. That's valuable for many people, but it isn't the only form of networking, nor is it the only way opportunities arise. If you've built your career through remote work, online communities, recruiters, staffing agencies, or contract work, your network may look different. Closing the loop might mean strengthening those channels instead of trying to force a strategy that doesn't match your experience.
-
-For me, that has meant reconnecting with former colleagues, staying in touch with recruiters, reaching out to previous staffing agencies, submitting updated resumes to new agencies, and periodically refreshing my professional materials. Those activities reinforce the channels that have historically produced opportunities.
-
-The important question isn't whether you're following conventional advice. It's whether your actions are addressing the actual bottleneck in your own job search.
+Career advice often assumes a particular bottleneck. Before following it, ask whether that bottleneck is actually yours.
