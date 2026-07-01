@@ -16,11 +16,7 @@ We're in a weird moment because the old categories still exist, but the market n
 
 ## Yes, Companies Should Invest in Entry Talent More
 
-I believe companies should invest more in entry-level engineering talent. At the same time, it's important to recognize that "entry-level" no longer describes a single type of candidate. 
-
-Some organizations define entry-level as recent computer science graduates. Others actively recruit from bootcamps, apprenticeship programs, or career changers. Still others are looking for candidates who are new to professional software engineering but have already built substantial personal projects, contributed to open source, completed internships, or gained experience through freelance and contract work.
-
-Those candidates may all be competing for the same role while bringing very different backgrounds and strengths.
+I believe companies should invest more in entry-level engineering talent. At the same time, it's important to recognize that "entry-level" no longer describes a single type of candidate. Some organizations define entry-level as recent computer science graduates. Others actively recruit from bootcamps, apprenticeship programs, or career changers. Still others are looking for candidates who are new to professional software engineering but have already built substantial personal projects, contributed to open source, completed internships, or gained experience through freelance and contract work. Those candidates may all be competing for the same role while bringing very different backgrounds and strengths.
 
 That diversity makes hiring more challenging, but it also creates opportunities. Companies can build pipelines that reflect the kinds of engineers they want to develop rather than relying on a single educational path. Investing in entry talent doesn't mean lowering the bar. It means recognizing potential, providing mentorship, and creating environments where newer engineers can grow into productive contributors.
 
