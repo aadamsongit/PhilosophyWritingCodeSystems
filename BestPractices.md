@@ -1,4 +1,4 @@
-## Some Simple Markdown Truths
+## Some Simple Best Practices and Truth for Web Dev, Programming, Workflow
 
 React is a perfectly reasonable entry point into modern web development. Spend at least as much time understanding JavaScript itself: its runtime behavior, asynchronous execution, objects, functions, and closures. Spend equivalent time on JavaScript and React. Learn TypeScript as a way to make contracts and intent explicit rather than as a replacement for understanding JavaScript.
 
