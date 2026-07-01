@@ -17,19 +17,11 @@ Whether the code was written by a teammate, an AI assistant, or your past self, 
 
 ## Don't Be a Unicorn
 
-Unicorns are flashy. We all love Swiftwind.
+Unicorns are flashy. We all love Swiftwind. But on a production codebase, you need to be Gandalf.
 
-But on a production codebase, you need to be Gandalf.
+As your career progresses, your value increasingly comes from judgment rather than novelty. You become the person who asks the next question, catches the subtle bug, recognizes an unnecessary dependency, or notices that a seemingly harmless refactor changes behavior in unexpected ways. That responsibility extends to code review. Unreviewed vibe-coded pull requests must not pass into production simply because they compile or look convincing. Someone has to understand what changed, why it changed, and whether it makes the codebase better.
 
-As your career progresses, your value increasingly comes from judgment rather than novelty. You become the person who asks the next question, catches the subtle bug, recognizes an unnecessary dependency, or notices that a seemingly harmless refactor changes behavior in unexpected ways.
-
-That responsibility extends to code review. Unreviewed vibe-coded pull requests must not pass into production simply because they compile or look convincing. Someone has to understand what changed, why it changed, and whether it makes the codebase better.
-
-Every engineering team needs people who protect the bridge.
-
-Don't aspire to be the mythical engineer who knows everything.
-
-Be the wizard others trust to say, "This shall not pass," until the code earns its way across.
+Every engineering team needs people who protect the bridge. Don't aspire to be the mythical engineer who knows everything. Be the wizard others trust to say, "This shall not pass," until the code earns its way across.
 
 I've been on both all sides of this. I've approved code without reading closely enough and learned to be more discerning, but I also pushed code I should've reviewed more and had it rejected. And I've rejected code myself or come to understand why code was rejected. Even if your solution is right, you need to be able to articulate it. 
 
