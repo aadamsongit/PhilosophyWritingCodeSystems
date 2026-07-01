@@ -40,7 +40,7 @@ Like many interview formats, conversational interviews ultimately reward problem
 
 In my experience, interviews for consulting, architecture, and technical advisory roles often blend technical fundamentals with business context. I encountered questions about object-oriented programming, SQL, system design, and software architecture alongside discussions about AI, automation, and how those technologies could create value for large organizations.
 
-That combination reflects the nature of the work. You're not only expected to understand technology—you also need to explain why a particular technical decision makes sense in the context of a business problem.
+That combination reflects the nature of the work. You're not only expected to understand technology. You also need to explain why a particular technical decision makes sense in the context of a business problem.
 
 ## Time awareness
 
