@@ -4,11 +4,7 @@ The definition of a junior developer and the mental model many people have of on
 
 For many experienced developers, the image of a junior developer is someone entering the industry with little formal experience, learning on the job under the guidance of more senior engineers. While those developers still exist, they are no longer the only people competing for junior and entry-level positions.
 
-Today's market often includes candidates with computer science degrees, bootcamp graduates, substantial personal projects, open-source contributions, internships, contract work, freelance experience, or even years of professional experience in adjacent areas. Many applicants arrive with skills and resumes that would have been unusual for an entry-level candidate in previous hiring markets.
-
-That shift doesn't necessarily change what "junior" means within an organization, but it does change the pool of candidates competing for those roles. Discussions about the junior market should account for that distinction.
-
-By a lot of modern market standards, I'm an industry junior, but I get interviews for senior roles.
+Today's market often includes candidates with computer science degrees, bootcamp graduates, substantial personal projects, open-source contributions, internships, contract work, freelance experience, or even years of professional experience in adjacent areas. Many applicants arrive with skills and resumes that would have been unusual for an entry-level candidate in previous hiring markets. That shift doesn't necessarily change what "junior" means within an organization, but it does change the pool of candidates competing for those roles. Discussions about the junior market should account for that distinction. By a lot of modern market standards, I'm an industry junior, but I get interviews for senior roles.
 
 ## We're in a Weird Moment
 
