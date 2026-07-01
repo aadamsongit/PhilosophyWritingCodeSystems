@@ -2,9 +2,7 @@
 
 The technical interview is one of the most discussed and most criticized parts of software engineering hiring. Entire books, courses, and websites have been dedicated to preparing for it.
 
-Most developers have strong opinions about technical interviews. Some view them as an effective way to evaluate engineering ability. Others see them as poor predictors of on-the-job performance or as exercises that reward interview-specific preparation more than practical software development.
-
-Whatever your view, the technical interview has become a skill in its own right. Success often requires more than knowing how to write software. Developers learn to solve problems under time constraints, communicate their reasoning, discuss tradeoffs, and adapt to unfamiliar questions while another engineer observes their process.
+Most developers have strong opinions about technical interviews. Some view them as an effective way to evaluate engineering ability. Others see them as poor predictors of on-the-job performance or as exercises that reward interview-specific preparation more than practical software development. Whatever your view, the technical interview has become a skill in its own right. Success often requires more than knowing how to write software. Developers learn to solve problems under time constraints, communicate their reasoning, discuss tradeoffs, and adapt to unfamiliar questions while another engineer observes their process.
 
 Whether that is an ideal hiring system is a separate discussion. The practical reality is that technical interviews remain a common part of software engineering hiring, and understanding how they work is valuable regardless of your opinion of them.
 
