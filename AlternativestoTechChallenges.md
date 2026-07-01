@@ -1,4 +1,4 @@
-## Alternative Paths Besides Tech Challenges
+## Notes on the Market: Alternatives to Technical Interviews
 
 It's worth keeping the broader hiring context in mind.
 
@@ -10,15 +10,11 @@ Build in public when appropriate. Show systemic mastery. Keep a paper trail of d
 
 You may occasionally encounter a hiring process that places less emphasis on traditional technical interviews. Consider that a bonus rather than something to expect. Prepare as though you'll be asked to demonstrate your technical ability. Many companies still include one or more technical evaluations, whether through coding challenges, conversational interviews, system design, debugging, code review, or a paid work trial. Even when your portfolio opens doors, your ability to reason through technical problems often determines whether you receive an offer. Strong public work and strong interview skills complement one another. Neither is a reliable substitute for the other.
 
-# Discourse
+# Take Home Trial vs. Paid Work Trial
 
-The rise of AI has also changed how some companies think about take-home projects.
+The rise of AI has also changed how some companies think about take-home projects. When candidates have access to powerful coding assistants, it becomes more difficult to determine which parts of a submission reflect the candidate's own reasoning and which parts were substantially assisted by tools. As a result, some organizations have shifted away from traditional take-home assignments in favor of interview formats that make a candidate's reasoning more visible.
 
-When candidates have access to powerful coding assistants, it becomes more difficult to determine which parts of a submission reflect the candidate's own reasoning and which parts were substantially assisted by tools. As a result, some organizations have shifted away from traditional take-home assignments in favor of interview formats that make a candidate's reasoning more visible.
-
-One possible response is the paid work trial. Rather than evaluating a finished artifact in isolation, companies can observe how a candidate approaches real engineering work over time: how they ask questions, navigate a codebase, communicate, incorporate feedback, and make technical decisions. 
-
-Whether paid work trials become more common remains to be seen. They require a greater investment from both companies and candidates. Even so, they offer an interesting alternative in a hiring environment where the challenge is no longer simply evaluating code, but evaluating engineering judgment.
+One possible response is the paid work trial. Rather than evaluating a finished artifact in isolation, companies can observe how a candidate approaches real engineering work over time: how they ask questions, navigate a codebase, communicate, incorporate feedback, and make technical decisions. Whether paid work trials become more common remains to be seen. They require a greater investment from both companies and candidates. Even so, they offer an interesting alternative in a hiring environment where the challenge is no longer simply evaluating code, but evaluating engineering judgment.
 
 # What Will a Healthier Market for Modern Candidates Look Like?
 
