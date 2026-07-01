@@ -24,8 +24,6 @@ I think the real challenge for DSA is that it's hard to be motivated to practice
 
 ## Conversational Interviews
 
-## Conversational Interviews
-
 At first glance, a conversational technical interview might seem like the easiest format. After all, you're "just talking."
 
 In practice, they can be some of the most demanding interviews you'll encounter.
