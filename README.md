@@ -1,4 +1,4 @@
-## Origin: My Developer Timeline
+## About the Author of this Guide
 
 From **August of 2021 until December of 2021**, I attended **Coding Dojo** to learn web development and programming. I built Full Stack applications with **React, Python, and Java**. 
 
